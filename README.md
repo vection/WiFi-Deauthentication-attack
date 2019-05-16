@@ -1,4 +1,4 @@
-## Deauthentication attack tool
+# Deauthentication attack tool
 The main goal here is to make a simple tool that allows you to make deauthentication attack easly.
 The script requires network card that support monitor mode, you don't need any knowledge to make it work.
 In addition, the script automatically change the card to monitor mode.
@@ -19,9 +19,9 @@ All you need to do is run the script.
 - You also can make it a little more consistent to preform a better long-term affect
 
 # Images
-https://imgur.com/xt6AbFP
-https://imgur.com/aKrgNO3
-https://imgur.com/bzeBS3e
-https://imgur.com/YDIvFP6
+- https://imgur.com/xt6AbFP
+- https://imgur.com/aKrgNO3
+- https://imgur.com/bzeBS3e
+- https://imgur.com/YDIvFP6
 
 I have tested it on kali linux.
