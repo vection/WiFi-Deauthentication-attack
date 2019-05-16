@@ -4,6 +4,8 @@ The script requires network card that support monitor mode, you don't need any k
 In addition, the script automatically change the card to monitor mode.
 All you need to do is run the script.
 
+## Library required
+- Scapy
 
 ## Instructions
 - Open terminal and run the tool
