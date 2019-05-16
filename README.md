@@ -19,5 +19,9 @@ All you need to do is run the script.
 - You also can make it a little more consistent to preform a better long-term affect
 
 # Images
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/hM2F737"><a href="//imgur.com/hM2F737"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/xt6AbFP
+https://imgur.com/aKrgNO3
+https://imgur.com/bzeBS3e
+https://imgur.com/YDIvFP6
+
 I have tested it on kali linux.
